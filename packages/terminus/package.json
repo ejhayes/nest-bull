@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/anchan828/nest-bull/tree/master/packages/terminus#readme",
   "dependencies": {
-    "@anchan828/nest-bull": "^0.3.7"
+    "@anchan828/nest-bull": "^0.3.25"
   },
   "devDependencies": {
     "@godaddy/terminus": "4.1.0",
