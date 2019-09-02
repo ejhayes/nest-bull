@@ -28,7 +28,7 @@
   "devDependencies": {
     "@godaddy/terminus": "4.1.0",
     "@nestjs/common": "6.2.3",
-    "@nestjs/core": "6.2.3",
+    "@nestjs/core": "6.6.4",
     "@nestjs/platform-express": "6.2.3",
     "@nestjs/terminus": "6.1.5",
     "@nestjs/testing": "6.2.3",
