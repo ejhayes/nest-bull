@@ -30,7 +30,7 @@
     "@nestjs/common": "6.2.3",
     "@nestjs/core": "6.2.3",
     "@nestjs/platform-express": "6.2.3",
-    "@nestjs/terminus": "6.1.5",
+    "@nestjs/terminus": "7.0.0",
     "@nestjs/testing": "6.2.3",
     "@types/bull": "3.5.14",
     "@types/ioredis": "4.0.10",
