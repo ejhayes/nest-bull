@@ -1,4 +1,5 @@
-version: 2
+# this is a test
+version: 2.1
 jobs:
   build:
     docker:
